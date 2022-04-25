@@ -1,16 +1,27 @@
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+
+## Testes com Redux Toolkit
+
+Nesta aula, vamos aprender como testar o nosso aplicativo com Redux Toolkit,
+para isso vamos criar juntos uma aplicação ao estilo airbnb, com uma listagem
+e filtragem de dados, dai vamos aprender sobre filosofia de testes e como
+como testar o nosso aplicativo passo a passo!
+
+
+
 ## Primeiros passos 🏁
 
 Clone o repositório.
 
 ```sh
-git@github.com:vitormalencar/redux-tookit-testing-middlwares.git
-redux-toolkit-testing
+git@github.com:rocketseat-experts-club/redux-toolkit-testing-middleware-25-04-22.git
+redux-toolkit-testing-middleware
 ```
 
 `cd` no diretório.
 
 ```sh
-cd redux-toolkit-testing
+cd redux-toolkit-testing-middleware
 ```
 
 Instale as dependências do projeto:
@@ -35,9 +46,10 @@ yarn start:server
 ```
 
 com isso vamos ter acesso ao nosso servidor que esta rodando na porta
-3001, para testar o nosso aplicativo
+3008, para testar o nosso aplicativo
 
 Finalmente, vá para [localhost: 3000](http://localhost:3000) no navegador de sua escolha e você está pronto para ir 🚀.
+
 
 ## Ferramentas 🧰
 
@@ -75,7 +87,7 @@ src
 └── test-utils.jsx  (utilidades para testes)
 ```
 
-## Author
+## Expert
 
 | [<img src="https://avatars.githubusercontent.com/u/7741167?s=460&u=41e738d1178fcf31656665fe34c1c490d9c271cb&v=4" width="75px;"/>](https://github.com/vitormalencar) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
